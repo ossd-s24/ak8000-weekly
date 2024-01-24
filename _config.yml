@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Alex Kondratiuk Blog
 
 # CUSTOMIZE
-# Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2024
+# Short bio or description about you (displayed in the header)
+description: A Comp Sci Student, Open Source Spring 2024
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -31,18 +31,12 @@ excerpt_separator: <!--more-->
 #
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: ossd-s24
-  instagram:
-  linkedin:
-  pinterest:
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  email: ak8000@nyu.edu
+  github: ak8000
+  instagram: kondalex25
+  linkedin: https://www.linkedin.com/in/alex-kondratiuk-7b2a0118a/
+  medium: https://medium.com/@ak8000
+  twitter: https://twitter.com/Alexander_Kond
 
 # CUSTOMIZE
 # Your website URL (e.g. https://ossd-s23.github.io/weekly )
@@ -50,14 +44,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s24.github.io/weekly"
+url: "https://github.com/ossd-s24/ak8000-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/ak8000-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
