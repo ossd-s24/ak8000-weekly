@@ -14,6 +14,7 @@ The link should bring us to a public page that shows your contribution.
 
 Replace the first row with your own contribution. 
 
+WHEN MAKING CONTRIBUTIONS, ADD THEM HERE
 -->
 
 
