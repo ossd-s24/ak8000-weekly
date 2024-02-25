@@ -23,6 +23,6 @@ WHEN MAKING CONTRIBUTIONS, ADD THEM HERE
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 23   | https://uk.wikipedia.org/w/index.php?title=23_лютого&oldid=40498088&diff=cur    | Wikipedia article page correction    |   I added missing Ukrainian national holiday to the list of national holidays. This was done in Ukrainian Language   |
+| Feb 23   | https://uk.wikipedia.org/w/index.php?title=23_лютого&diff=prev&oldid=41835484    | Wikipedia article page correction    |   I added missing Ukrainian national holiday to the list of national holidays. This was done in Ukrainian Language   |
 |     |     |     |      |
 |     |     |     |      |
