@@ -27,3 +27,5 @@ WHEN MAKING CONTRIBUTIONS, ADD THEM HERE
 |   March 13  |  [link](https://github.com/spicetify/spicetify-marketplace/pull/694)   |   Spicetify pull request. Docs  |   Created the pull request (was merged) into Spicetify Marketplace Repo. Included fixing a few links and adding some  |
 |   April 8  |   [link](https://en.wikipedia.org/w/index.php?title=Orthodox_Easter&diff=prev&oldid=1217918852)  |  Wikipedia article addition  |   I wrote an article for Orthodox Easter   |
 |   April 8  |   [link](https://en.wikipedia.org/w/index.php?title=Mitchell_family&diff=prev&oldid=1217942470)  |  Wikipedia article Fix  |   I fixed elemenets of recommened "to fix" article on Wikipedia   |
+|   April 21  |   [link](https://github.com/spicetify/spicetify-cli/issues/2749#issuecomment-2068258821)  |  Commenting on a Bug Issue  |   I commented on an issue in Github Spicetify CLI as i experienced the same bug. Stated that i was not able to reproduce it, but had it for a moment. Gave my specs.   |
+
